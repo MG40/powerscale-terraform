@@ -12,7 +12,7 @@ It's a good practice to make sure that:
 - The resources can be created with terraform scripts whenever possible.
 - Typically, a role like `terrafomer.role` is created.
 
-In this case, we are showcasing how modules can be used to create resources for Dell Powerscale.
+We are showcasing how modules can be used to create resources for Dell Powerscale.
 
 We want to create a NFS export. This can be later used on a Linux machine to mount the NFS export.
 
